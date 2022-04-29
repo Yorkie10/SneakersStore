@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>595122060243-js31p0icrn0jdsovoj5vg1a67n2k91qf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.595122060243-js31p0icrn0jdsovoj5vg1a67n2k91qf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlCSQfW93gewRDn1a939kDISZyDVBJYKo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>595122060243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Yerkebulan-Sharipov.Sneakers</string>
+	<key>PROJECT_ID</key>
+	<string>sneakers-cc0ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sneakers-cc0ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:595122060243:ios:f5646ddb4dc36f89cb8d26</string>
+</dict>
+</plist>
